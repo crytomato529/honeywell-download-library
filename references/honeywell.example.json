@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "safety-manager",
+      "keywords": ["Safety Manager"],
+      "exclude_keywords": ["Safety Manager SC", "SafetyManager-SC"],
+      "seed_pages": ["https://process.honeywell.com/us/en/products/process-automation/safety-systems/safety-manager"],
+      "document_numbers": ["EP-SM.MAN.6284", "EP-SM.MAN.6283"],
+      "manual_topics": ["Hardware Reference", "Safety Manual", "Software Reference", "Installation", "Software Change Notice"],
+      "download_classes": ["technical", "unclassified"]
+    },
+    {
+      "id": "safety-manager-sc",
+      "keywords": ["Safety Manager SC"],
+      "seed_pages": ["https://process.honeywell.com/us/en/products/process-automation/safety-systems/safety-manager-sc"],
+      "manual_topics": ["Specifications and Technical Data", "Safety Manual", "Hardware Reference", "Installation", "Software Change Notice"],
+      "extra_queries": ["\"Safety Manager SC\" \"FC-TUDL01\" site:honeywell.com"],
+      "download_classes": ["technical", "unclassified"]
+    }
+  ]
+}

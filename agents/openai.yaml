@@ -1,0 +1,4 @@
+interface:
+  display_name: "Honeywell Download Library"
+  short_description: "Find manuals, compare versions, resume downloads"
+  default_prompt: "Use $honeywell-download-library to find product manuals, compare revisions and resume missing downloads."

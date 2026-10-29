@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "m580",
+      "keywords": ["M580", "Modicon M580"],
+      "library_args": [],
+      "document_numbers": ["QGH60283", "QGH46982", "EIO0000001578"],
+      "seed_pages": ["https://www.schneider-electric.cn/zh/faqs/FA412664/"],
+      "extra_queries": [
+        "\"M580\" site:download.schneider-electric.com manual",
+        "\"M580\" site:se.com \"User guide\""
+      ]
+    }
+  ]
+}

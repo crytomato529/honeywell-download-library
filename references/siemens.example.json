@@ -1,0 +1,15 @@
+{
+  "products": [{
+    "id": "s7-1500",
+    "keywords": ["S7-1500", "S7-1500F"],
+    "manual_topics": ["system manual", "equipment manual", "function manual", "programming manual", "safety", "product information"],
+    "document_numbers": ["A5E50811213", "A5E03484625"],
+    "extra_queries": [
+      "\"S7-1500\" \"Manual Collection\" site:cache.industry.siemens.com filetype:pdf",
+      "\"S7-1500\" \"109742691\" site:siemens.com",
+      "\"S7-1500\" \"109742705\" site:siemens.com",
+      "\"S7-1500\" \"系统手册\" site:siemens.com filetype:pdf"
+    ],
+    "download_classes": ["technical", "unclassified"]
+  }]
+}

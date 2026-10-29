@@ -1,0 +1,2 @@
+# Optional for local PDF metadata and citation inspection.
+pypdf==6.11.0
